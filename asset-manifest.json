@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/shop-react/static/css/main.3c6363cd.css",
-    "main.js": "/shop-react/static/js/main.f7a619f3.js",
+    "main.js": "/shop-react/static/js/main.f8d43998.js",
     "static/media/logo_yard_sale.svg": "/shop-react/static/media/logo_yard_sale.f5c1d07e0dba172463639e02bacccd32.svg",
     "static/media/bt_add_to_cart.svg": "/shop-react/static/media/bt_add_to_cart.c13587f7a917cacfc4722859eba06bca.svg",
     "static/media/icon_shopping_cart.svg": "/shop-react/static/media/icon_shopping_cart.6ee019074975f25fb7927a83133327c4.svg",
@@ -10,10 +10,10 @@
     "index.html": "/shop-react/index.html",
     "static/media/flechita.svg": "/shop-react/static/media/flechita.e419d8c93e852173b9b8261835467277.svg",
     "main.3c6363cd.css.map": "/shop-react/static/css/main.3c6363cd.css.map",
-    "main.f7a619f3.js.map": "/shop-react/static/js/main.f7a619f3.js.map"
+    "main.f8d43998.js.map": "/shop-react/static/js/main.f8d43998.js.map"
   },
   "entrypoints": [
     "static/css/main.3c6363cd.css",
-    "static/js/main.f7a619f3.js"
+    "static/js/main.f8d43998.js"
   ]
 }
